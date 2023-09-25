@@ -1,19 +1,19 @@
 <template>
-  <div class="home">
+  <div class="about">
     <header-bar></header-bar>
-    <data-table></data-table>
+    <transactions-table></transactions-table>
   </div>
 </template>
 
 <script>
 import HeaderBar from "@/components/HeaderBar.vue";
-import DataTable from "@/components/DataTable.vue";
+import TransactionsTable from "@/components/TransactionsTable.vue";
 
 export default {
   name: "HomeView",
   components: {
     HeaderBar,
-    DataTable,
+    TransactionsTable,
   },
 };
 </script>

@@ -1,0 +1,310 @@
+{
+  "customers": [
+    {
+      "company_name": "Dunder Mifflin",
+      "contact_firstname": "Jim",
+      "contact_lastname": "Halpert",
+      "contact_email": "halp@awesome.com",
+      "acquired_on": "2021-04-03",
+      "customer_status": "active",
+      "id": 4
+    },
+    {
+      "company_name": "company",
+      "contact_firstname": "name",
+      "contact_lastname": "lastname",
+      "contact_email": "email",
+      "acquired_on": "2019-12-23",
+      "customer_status": "inactive",
+      "id": 5
+    },
+    {
+      "id": 8,
+      "company_name": "My awesome Company",
+      "contact_firstname": "Jane",
+      "contact_lastname": "Doe",
+      "contact_email": "jdoe@awesome.com",
+      "acquired_on": "2021-04-03",
+      "customer_status": "active"
+    },
+    {
+      "id": 9,
+      "company_name": "Company ABC",
+      "contact_firstname": "Sarah",
+      "contact_lastname": "Jane",
+      "contact_email": "sjane@coabc.com",
+      "acquired_on": "2021-06-03",
+      "customer_status": "active"
+    },
+    {
+      "id": 10,
+      "company_name": "Company xYZ",
+      "contact_firstname": "Tim",
+      "contact_lastname": "Hane",
+      "contact_email": "thane@coxyz.com",
+      "acquired_on": "2020-12-03",
+      "customer_status": "active"
+    },
+    {
+      "id": 11,
+      "company_name": "Video Production Consulting",
+      "contact_firstname": "Miriam",
+      "contact_lastname": "Doe",
+      "contact_email": "mdoe@vidprod.com",
+      "acquired_on": "2020-07-05",
+      "customer_status": "active"
+    },
+    {
+      "id": 12,
+      "company_name": "Code Writers",
+      "contact_firstname": "Jill",
+      "contact_lastname": "Wade",
+      "contact_email": "jwade@codewrit.com",
+      "acquired_on": "2020-04-03",
+      "customer_status": "active"
+    },
+    {
+      "company_name": "qwqeqwswq",
+      "contact_firstname": "",
+      "contact_lastname": "sqwsqwsq",
+      "contact_email": "sqwsqsqs",
+      "acquired_on": "",
+      "customer_status": "",
+      "id": 19
+    },
+    {
+      "company_name": "dsadasdasd",
+      "contact_firstname": "",
+      "contact_lastname": "dasdasdasd",
+      "contact_email": "dasdasdasd",
+      "acquired_on": "",
+      "customer_status": "",
+      "id": 21
+    },
+    {
+      "company_name": "qwewewqewq",
+      "contact_firstname": "",
+      "contact_lastname": "ewqewqeqwe",
+      "contact_email": "eqeeqeqweq",
+      "acquired_on": "",
+      "customer_status": "",
+      "id": 23
+    },
+    {
+      "company_name": "ds",
+      "contact_firstname": "",
+      "contact_lastname": "adas",
+      "contact_email": "dasdasd",
+      "acquired_on": "",
+      "customer_status": "active",
+      "id": 29
+    },
+    {
+      "company_name": "afadfadsfads",
+      "contact_firstname": "",
+      "contact_lastname": "dfsdafdsaf",
+      "contact_email": "sfasdfsdfasdf",
+      "acquired_on": "",
+      "customer_status": "",
+      "id": 31
+    },
+    {
+      "company_name": "fsdfsdfsd",
+      "contact_firstname": "",
+      "contact_lastname": "sdfsdfsdf",
+      "contact_email": "dfsdfsdfsdf",
+      "acquired_on": "",
+      "customer_status": "",
+      "id": 32
+    },
+    {
+      "company_name": "saSs\\SSD",
+      "contact_firstname": "",
+      "contact_lastname": "asdasdas",
+      "contact_email": "dasdasdasd",
+      "acquired_on": "",
+      "customer_status": "inactive",
+      "id": 33
+    },
+    {
+      "company_name": "dfsdfsdfsd",
+      "contact_firstname": "",
+      "contact_lastname": "dfsdfsdf",
+      "contact_email": "ssss",
+      "acquired_on": "",
+      "customer_status": "",
+      "id": 34
+    },
+    {
+      "company_name": "gfdgdfg",
+      "contact_firstname": "",
+      "contact_lastname": "gdfgdfgd",
+      "contact_email": "gdfgdfg",
+      "acquired_on": "",
+      "customer_status": "active",
+      "id": 35
+    },
+    {
+      "company_name": "gfdgd",
+      "contact_firstname": "",
+      "contact_lastname": "gfdgdfg",
+      "contact_email": "gdfgdfgdfg",
+      "acquired_on": "",
+      "customer_status": "",
+      "id": 38
+    },
+    {
+      "company_name": "j",
+      "contact_firstname": "",
+      "contact_lastname": "jaSX",
+      "contact_email": "j",
+      "acquired_on": "",
+      "customer_status": "active",
+      "id": 45
+    },
+    {
+      "company_name": "k",
+      "contact_firstname": "",
+      "contact_lastname": "kaaa",
+      "contact_email": "k",
+      "acquired_on": "",
+      "customer_status": "",
+      "id": 46
+    },
+    {
+      "company_name": "d",
+      "contact_firstname": "",
+      "contact_lastname": "sdsd",
+      "contact_email": "ds",
+      "acquired_on": "",
+      "customer_status": "",
+      "id": 47
+    },
+    {
+      "company_name": "a",
+      "contact_firstname": "sdasd",
+      "contact_lastname": "az",
+      "contact_email": "za",
+      "acquired_on": "",
+      "customer_status": "active",
+      "id": 48
+    },
+    {
+      "company_name": "ds",
+      "contact_firstname": "",
+      "contact_lastname": "s",
+      "contact_email": "s",
+      "acquired_on": "",
+      "customer_status": "",
+      "id": 50
+    },
+    {
+      "company_name": "c",
+      "contact_firstname": "",
+      "contact_lastname": "c",
+      "contact_email": "c",
+      "acquired_on": "",
+      "customer_status": "",
+      "id": 57
+    },
+    {
+      "company_name": "d",
+      "contact_firstname": "",
+      "contact_lastname": "a",
+      "contact_email": "d",
+      "acquired_on": "",
+      "customer_status": "",
+      "id": 58
+    },
+    {
+      "company_name": "sf",
+      "contact_firstname": "",
+      "contact_lastname": "fds",
+      "contact_email": "afs",
+      "acquired_on": "",
+      "customer_status": "active",
+      "id": 60
+    },
+    {
+      "company_name": "a",
+      "contact_firstname": "",
+      "contact_lastname": "x",
+      "contact_email": "x",
+      "acquired_on": "",
+      "customer_status": "",
+      "id": 62
+    },
+    {
+      "company_name": "sdasd",
+      "contact_firstname": "",
+      "contact_lastname": "dasdasf",
+      "contact_email": "fsdfsdfsdfsdf",
+      "acquired_on": "",
+      "customer_status": "active",
+      "id": 63
+    },
+    {
+      "company_name": "fd",
+      "contact_firstname": "",
+      "contact_lastname": "dsd",
+      "contact_email": "as",
+      "acquired_on": "",
+      "customer_status": "",
+      "id": 64
+    },
+    {
+      "company_name": "ad",
+      "contact_firstname": "sadas",
+      "contact_lastname": "sdasdas",
+      "contact_email": "dasdasd",
+      "acquired_on": "",
+      "customer_status": "",
+      "id": 66
+    },
+    {
+      "company_name": "zaa",
+      "contact_firstname": "",
+      "contact_lastname": "zaz",
+      "contact_email": "zaz",
+      "acquired_on": "",
+      "customer_status": "",
+      "id": 67
+    },
+    {
+      "company_name": "ds",
+      "contact_firstname": "",
+      "contact_lastname": "da",
+      "contact_email": "ca",
+      "acquired_on": "",
+      "customer_status": "",
+      "id": 69
+    },
+    {
+      "company_name": "xa",
+      "contact_firstname": "",
+      "contact_lastname": "xa",
+      "contact_email": "v",
+      "acquired_on": "",
+      "customer_status": "",
+      "id": 70
+    },
+    {
+      "company_name": "d",
+      "contact_firstname": "",
+      "contact_lastname": "s",
+      "contact_email": "s",
+      "acquired_on": "",
+      "customer_status": "",
+      "id": 71
+    },
+    {
+      "company_name": "dsa",
+      "contact_firstname": "",
+      "contact_lastname": "sad",
+      "contact_email": "asdsad",
+      "acquired_on": "",
+      "customer_status": "",
+      "id": 72
+    }
+  ]
+}
