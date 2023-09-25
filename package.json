@@ -1,5 +1,6 @@
 {
   "name": "vue-table-example",
+  "homepage": "https://agoodi.github.io/vue-table-example/",
   "version": "0.1.0",
   "private": true,
   "scripts": {

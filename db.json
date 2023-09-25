@@ -287,24 +287,6 @@
       "acquired_on": "",
       "customer_status": "",
       "id": 70
-    },
-    {
-      "company_name": "d",
-      "contact_firstname": "",
-      "contact_lastname": "s",
-      "contact_email": "s",
-      "acquired_on": "",
-      "customer_status": "",
-      "id": 71
-    },
-    {
-      "company_name": "dsa",
-      "contact_firstname": "",
-      "contact_lastname": "sad",
-      "contact_email": "asdsad",
-      "acquired_on": "",
-      "customer_status": "",
-      "id": 72
     }
   ]
 }
