@@ -108,7 +108,9 @@ export default {
   methods: {
     getCustomerById() {
       axios
-        .get(`http://localhost:3000/customers/${this.customerId}`)
+        .get(
+          `https://my-json-server.typicode.com/agoodi/vue-table-example/customers/${this.customerId}`
+        )
         .then((response) => {
           console.log(response);
           this.customer = response.data;
@@ -132,7 +134,7 @@ export default {
     updateCustomer() {
       axios
         .put(
-          `http://localhost:3000/customers/${this.customerId}`,
+          `https://my-json-server.typicode.com/agoodi/vue-table-example/customers/${this.customerId}`,
           this.customer
         )
         .then((response) => {

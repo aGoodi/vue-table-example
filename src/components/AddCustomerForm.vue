@@ -149,7 +149,10 @@ export default {
     },
     addCustomer() {
       axios
-        .post("http://localhost:3000/customers/", this.customer)
+        .post(
+          "https://my-json-server.typicode.com/agoodi/vue-table-example/customers/",
+          this.customer
+        )
         .then((response) => {
           this.$emit("hideAddCustomer");
           this.$emit("getCustomerData");

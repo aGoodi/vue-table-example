@@ -71,7 +71,9 @@ export default {
   methods: {
     getCustomerData() {
       axios
-        .get("http://localhost:3000/customers/")
+        .get(
+          "https://my-json-server.typicode.com/agoodi/vue-table-example/customers/"
+        )
         .then((response) => (this.items = response.data))
         .catch((error) => {
           console.log(error);

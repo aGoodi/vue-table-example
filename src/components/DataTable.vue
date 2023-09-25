@@ -186,7 +186,9 @@ export default {
   methods: {
     getCustomerData() {
       axios
-        .get("http://localhost:3000/customers/")
+        .get(
+          "https://my-json-server.typicode.com/agoodi/vue-table-example/customers"
+        )
         .then(
           (response) => (
             (this.items = response.data), (this.noSearchResults = false)
@@ -198,7 +200,9 @@ export default {
     },
     getFilteredData() {
       axios
-        .get(`http://localhost:3000/customers/?q=${this.filter.toLowerCase()}`)
+        .get(
+          `https://my-json-server.typicode.com/agoodi/vue-table-example/customers/?q=${this.filter.toLowerCase()}`
+        )
         .then(
           (response) => (
             (this.items = response.data),
@@ -250,7 +254,9 @@ export default {
     deleteCustomer(id) {
       this.customerId = id;
       axios
-        .delete(`http://localhost:3000/customers/${this.customerId}`)
+        .delete(
+          `https://my-json-server.typicode.com/agoodi/vue-table-example/customers/${this.customerId}`
+        )
         .then((response) => {
           console.log(response);
           setTimeout(
